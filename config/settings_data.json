@@ -100,9 +100,9 @@
           "type_navigation_size": 20,
           "type_navigation_style": false,
           "show_announcement": true,
-          "announcement_text": "Presented by THInk Inc.",
-          "announcement_link": "shopify:\/\/pages\/contact-us",
-          "announcement_closable": true
+          "announcement_text": "Presented by THInk Inc. <a href=\"google.com\">Home<\/a>",
+          "announcement_link": "",
+          "announcement_closable": false
         }
       },
       "footer": {
