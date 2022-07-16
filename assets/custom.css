@@ -1,0 +1,11 @@
+/*header*/
+
+.site-header__logo {
+  margin: 13.33333px 0 0 0;
+}
+
+@media (min-width: 769px) {
+  .header-item--logo .site-header__logo a {
+    max-height: 75px;
+  }
+}
