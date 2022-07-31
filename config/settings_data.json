@@ -645,6 +645,7 @@
           "1659276644ac12c6c0-0": {
             "type": "image",
             "settings": {
+              "image": "shopify:\/\/shop_images\/mother-son-selfie.jpg",
               "focal_point": "center center",
               "slide_title1": "Beautifully animated",
               "slide_title2": "titles and images"
@@ -653,6 +654,7 @@
           "1659276644ac12c6c0-1": {
             "type": "image",
             "settings": {
+              "image": "shopify:\/\/shop_images\/stylish-summer-necklace.jpg",
               "focal_point": "center center",
               "slide_title1": "Use this section",
               "slide_title2": "to impress customers"
@@ -661,6 +663,7 @@
           "1659276644ac12c6c0-2": {
             "type": "image",
             "settings": {
+              "image": "shopify:\/\/shop_images\/woman-wearing-aviator-glasses.jpg",
               "focal_point": "center center",
               "slide_title1": "And highlight",
               "slide_title2": "important details"
