@@ -1,5 +1,6 @@
 {
   "current": {
+    "color_body_text": "#353956",
     "color_borders": "#e8e8e1",
     "color_button": "#353956",
     "color_button_text": "#ffffff",
@@ -751,7 +752,7 @@
           "title": "Don't take our word for it",
           "round_images": true,
           "color_background": "#f9f9f9",
-          "color_text": "#1c1d1d"
+          "color_text": "#353956"
         }
       }
     },
