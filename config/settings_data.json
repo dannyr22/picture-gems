@@ -638,6 +638,54 @@
           "sort": "alphabetical",
           "grid": "2"
         }
+      },
+      "1659276644ac12c6c0": {
+        "type": "fading-images",
+        "blocks": {
+          "1659276644ac12c6c0-0": {
+            "type": "image",
+            "settings": {
+              "focal_point": "center center",
+              "slide_title1": "Beautifully animated",
+              "slide_title2": "titles and images"
+            }
+          },
+          "1659276644ac12c6c0-1": {
+            "type": "image",
+            "settings": {
+              "focal_point": "center center",
+              "slide_title1": "Use this section",
+              "slide_title2": "to impress customers"
+            }
+          },
+          "1659276644ac12c6c0-2": {
+            "type": "image",
+            "settings": {
+              "focal_point": "center center",
+              "slide_title1": "And highlight",
+              "slide_title2": "important details"
+            }
+          }
+        },
+        "block_order": [
+          "1659276644ac12c6c0-0",
+          "1659276644ac12c6c0-1",
+          "1659276644ac12c6c0-2"
+        ],
+        "settings": {
+          "title_lines": "2",
+          "title_font": "body",
+          "title_size": 45,
+          "title_color": "#ffffff",
+          "title_bg_color": "rgba(0,0,0,0)",
+          "text_align": "vertical-center horizontal-center",
+          "link": "",
+          "slide_speed": 5,
+          "color_overlay": "#000",
+          "color_overlay_opacity": 30,
+          "desktop_height": "650px",
+          "mobile_height": "auto"
+        }
       }
     },
     "content_for_index": [
@@ -646,7 +694,8 @@
       "1499790529450",
       "1499789718857",
       "1566999869051",
-      "1499790731541"
+      "1499790731541",
+      "1659276644ac12c6c0"
     ]
   },
   "presets": {
