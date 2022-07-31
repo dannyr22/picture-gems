@@ -754,6 +754,17 @@
           "color_background": "#f9f9f9",
           "color_text": "#353956"
         }
+      },
+      "1659280874af1cb1ac": {
+        "type": "map",
+        "settings": {
+          "map_title": "Our retail store",
+          "address": "<p>301 Front St W<br>Toronto, Canada<\/p><p>Mon - Fri, 8:30am - 10:30pm<br>Saturday, 8:30am - 10:30pm<br>Sunday, 8:30am - 10:30pm<\/p>",
+          "map_address": "301 Front St W, Toronto, ON M5V 2T6",
+          "api_key": "",
+          "show_button": true,
+          "background_image_position": "center center"
+        }
       }
     },
     "content_for_index": [
@@ -764,7 +775,8 @@
       "1499789718857",
       "1566999869051",
       "1499790731541",
-      "1659277115886b63e1"
+      "1659277115886b63e1",
+      "1659280874af1cb1ac"
     ]
   },
   "presets": {
