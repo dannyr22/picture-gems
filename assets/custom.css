@@ -10,6 +10,11 @@
   }
 }
 
+/*Header */
+
+.site-nav__item a {
+  color: #353956;
+}
 /*Footer*/
 .footer__copyright .footer__powered_by {
   display: none;
