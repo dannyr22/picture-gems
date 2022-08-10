@@ -40,6 +40,7 @@
     "animate_images_style": "zoom-fade",
     "animate_buttons": true,
     "animate_underlines": true,
+    "quick_shop_enable": true,
     "quick_shop_text": "Quick view",
     "surface_pickup_enable": true,
     "product_content_1": "consent-to-use-finished-product",
@@ -235,7 +236,7 @@
         "settings": {
           "title": "Most popular",
           "collection1": "necklaces",
-          "collection2": "",
+          "collection2": "crystals",
           "per_row": 4,
           "view_all": true,
           "divider": false
@@ -243,8 +244,15 @@
       },
       "1499789718857": {
         "type": "featured-collections",
-        "disabled": true,
         "blocks": {
+          "ca363621-ef13-4377-a832-26b1f80650b3": {
+            "type": "collection",
+            "settings": {
+              "collection": "picture-gems-crystals",
+              "focal_point": "center center",
+              "size": "square-large"
+            }
+          },
           "1499789718857-0": {
             "type": "collection",
             "settings": {
@@ -269,14 +277,6 @@
               "size": "square-small"
             }
           },
-          "ca363621-ef13-4377-a832-26b1f80650b3": {
-            "type": "collection",
-            "settings": {
-              "collection": "picture-gems-crystals",
-              "focal_point": "center center",
-              "size": "square-small"
-            }
-          },
           "90f7f5d5-840c-49d8-b216-0fdc5efa6727": {
             "type": "collection",
             "settings": {
@@ -287,16 +287,16 @@
           }
         },
         "block_order": [
+          "ca363621-ef13-4377-a832-26b1f80650b3",
           "1499789718857-0",
           "1499789718857-2",
           "1499789718857-4",
-          "ca363621-ef13-4377-a832-26b1f80650b3",
           "90f7f5d5-840c-49d8-b216-0fdc5efa6727"
         ],
         "settings": {
-          "title": "",
+          "title": "Collections",
           "divider": false,
-          "enable_gutter": false
+          "enable_gutter": true
         }
       },
       "1499790529450": {
@@ -766,18 +766,31 @@
           "show_button": true,
           "background_image_position": "center center"
         }
+      },
+      "166016496680010818": {
+        "type": "featured-collection-switcher",
+        "disabled": true,
+        "settings": {
+          "title": "Most popular",
+          "collection1": "crystals",
+          "collection2": "bracelets",
+          "per_row": 3,
+          "view_all": true,
+          "divider": false
+        }
       }
     },
     "content_for_index": [
       "1498163293234",
       "1659276644ac12c6c0",
+      "1499789718857",
       "1499790633921",
       "1499790529450",
-      "1499789718857",
       "1566999869051",
       "1499790731541",
       "1659277115886b63e1",
-      "1659280874af1cb1ac"
+      "1659280874af1cb1ac",
+      "166016496680010818"
     ]
   },
   "presets": {
