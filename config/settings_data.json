@@ -99,7 +99,7 @@
           "main_menu_alignment": "center",
           "header_style": "sticky",
           "sticky_index": false,
-          "sticky_collection": true,
+          "sticky_collection": false,
           "type_navigation_size": 20,
           "type_navigation_style": false,
           "show_announcement": true,
