@@ -175,7 +175,7 @@
         "type": "collection-template",
         "settings": {
           "collection_image_enable": true,
-          "collection_image_height": 550,
+          "collection_image_height": 450,
           "parallax": true,
           "description_position": "top",
           "collection_subnav_style": "inline",
