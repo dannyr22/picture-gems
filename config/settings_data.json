@@ -644,33 +644,6 @@
       "1659276644ac12c6c0": {
         "type": "fading-images",
         "blocks": {
-          "1659276644ac12c6c0-0": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/mother-son-selfie.jpg",
-              "focal_point": "center center",
-              "slide_title1": "Beautifully animated",
-              "slide_title2": "titles and images"
-            }
-          },
-          "1659276644ac12c6c0-1": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/stylish-summer-necklace.jpg",
-              "focal_point": "center center",
-              "slide_title1": "Use this section",
-              "slide_title2": "to impress customers"
-            }
-          },
-          "1659276644ac12c6c0-2": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/woman-wearing-aviator-glasses.jpg",
-              "focal_point": "center center",
-              "slide_title1": "And highlight",
-              "slide_title2": "important details"
-            }
-          },
           "9a706565-fb0c-4529-b86d-caa9942024be": {
             "type": "image",
             "settings": {
@@ -697,15 +670,42 @@
               "slide_title1": "And highlight",
               "slide_title2": "important details"
             }
+          },
+          "1659276644ac12c6c0-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/mother-son-selfie.jpg",
+              "focal_point": "center center",
+              "slide_title1": "Beautifully animated",
+              "slide_title2": "titles and images"
+            }
+          },
+          "1659276644ac12c6c0-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/stylish-summer-necklace.jpg",
+              "focal_point": "center center",
+              "slide_title1": "Use this section",
+              "slide_title2": "to impress customers"
+            }
+          },
+          "1659276644ac12c6c0-2": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/woman-wearing-aviator-glasses.jpg",
+              "focal_point": "center center",
+              "slide_title1": "And highlight",
+              "slide_title2": "important details"
+            }
           }
         },
         "block_order": [
-          "1659276644ac12c6c0-0",
-          "1659276644ac12c6c0-1",
-          "1659276644ac12c6c0-2",
           "9a706565-fb0c-4529-b86d-caa9942024be",
           "30833a56-725c-41d6-95f2-d8bd357bc139",
-          "1b6fa0e9-9a61-4d84-98aa-81e7b894a701"
+          "1b6fa0e9-9a61-4d84-98aa-81e7b894a701",
+          "1659276644ac12c6c0-0",
+          "1659276644ac12c6c0-1",
+          "1659276644ac12c6c0-2"
         ],
         "settings": {
           "title_lines": "2",
