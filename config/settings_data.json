@@ -670,12 +670,40 @@
               "slide_title1": "And highlight",
               "slide_title2": "important details"
             }
+          },
+          "9a706565-fb0c-4529-b86d-caa9942024be": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/8D856B74-06A0-43A1-A9AA-5052750630E4.jpg",
+              "focal_point": "center center",
+              "slide_title1": "Beautifully animated",
+              "slide_title2": "titles and images"
+            }
+          },
+          "30833a56-725c-41d6-95f2-d8bd357bc139": {
+            "type": "image",
+            "settings": {
+              "focal_point": "center center",
+              "slide_title1": "",
+              "slide_title2": ""
+            }
+          },
+          "1b6fa0e9-9a61-4d84-98aa-81e7b894a701": {
+            "type": "image",
+            "settings": {
+              "focal_point": "center center",
+              "slide_title1": "",
+              "slide_title2": ""
+            }
           }
         },
         "block_order": [
           "1659276644ac12c6c0-0",
           "1659276644ac12c6c0-1",
-          "1659276644ac12c6c0-2"
+          "1659276644ac12c6c0-2",
+          "9a706565-fb0c-4529-b86d-caa9942024be",
+          "30833a56-725c-41d6-95f2-d8bd357bc139",
+          "1b6fa0e9-9a61-4d84-98aa-81e7b894a701"
         ],
         "settings": {
           "title_lines": "2",
