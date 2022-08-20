@@ -692,9 +692,10 @@
           "1b6fa0e9-9a61-4d84-98aa-81e7b894a701": {
             "type": "image",
             "settings": {
+              "image": "shopify:\/\/shop_images\/A10DC4A1-0608-49E5-AE11-CADDAC8859D9.webp",
               "focal_point": "center center",
-              "slide_title1": "",
-              "slide_title2": ""
+              "slide_title1": "And highlight",
+              "slide_title2": "important details"
             }
           }
         },
