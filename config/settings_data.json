@@ -683,9 +683,10 @@
           "30833a56-725c-41d6-95f2-d8bd357bc139": {
             "type": "image",
             "settings": {
+              "image": "shopify:\/\/shop_images\/E9A9032E-4069-44FC-8407-FA1DB8E5DE10.webp",
               "focal_point": "center center",
-              "slide_title1": "",
-              "slide_title2": ""
+              "slide_title1": "Use this section",
+              "slide_title2": "to impress customers"
             }
           },
           "1b6fa0e9-9a61-4d84-98aa-81e7b894a701": {
