@@ -888,7 +888,7 @@
           "1661604168be2ba007-1": {
             "type": "html",
             "settings": {
-              "code": "<h2>Custom content<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML or scripts.<\/p>",
+              "code": "<h2 style=\"text-align: center\">Custom content<\/h2><p style=\"text-align: center\">Use this advanced section to build your own layouts or to add custom HTML or scripts.<\/p>",
               "width": "100%",
               "alignment": "center"
             }
@@ -937,7 +937,7 @@
             "type": "image",
             "settings": {
               "link": "",
-              "width": "100%",
+              "width": "33%",
               "alignment": "top-middle"
             }
           }
