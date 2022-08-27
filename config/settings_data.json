@@ -811,6 +811,7 @@
       },
       "1661603611c8bd3483": {
         "type": "background-image-text",
+        "disabled": true,
         "settings": {
           "subtitle": "Service",
           "title": "Custom Picture Projects",
@@ -836,6 +837,88 @@
           "layout": "left",
           "divider": false
         }
+      },
+      "16616041522e06984c": {
+        "type": "slideshow",
+        "disabled": true,
+        "blocks": {
+          "16616041522e06984c-0": {
+            "type": "image",
+            "settings": {
+              "title": "Endless\npossibilities.",
+              "title_size": 80,
+              "subheading": "Bring your brand to life",
+              "link": "",
+              "link_text": "Optional button",
+              "text_align": "vertical-bottom horizontal-left",
+              "overlay_opacity": 0,
+              "focal_point": "center center"
+            }
+          },
+          "16616041522e06984c-1": {
+            "type": "image",
+            "settings": {
+              "title": "Two line\nslide titles.",
+              "title_size": 80,
+              "subheading": "And big, beautiful imagery",
+              "link": "",
+              "link_text": "Optional button",
+              "text_align": "vertical-bottom horizontal-left",
+              "overlay_opacity": 0,
+              "focal_point": "center center"
+            }
+          }
+        },
+        "block_order": [
+          "16616041522e06984c-0",
+          "16616041522e06984c-1"
+        ],
+        "settings": {
+          "section_height": "650px",
+          "mobile_height": "auto",
+          "parallax": true,
+          "style": "arrows",
+          "autoplay": true,
+          "autoplay_speed": 5
+        }
+      },
+      "1661604168be2ba007": {
+        "type": "advanced-content",
+        "blocks": {
+          "1661604168be2ba007-1": {
+            "type": "html",
+            "settings": {
+              "code": "<h2>Custom content<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML or scripts.<\/p>",
+              "width": "100%",
+              "alignment": "center"
+            }
+          },
+          "8ecab859-7b2d-4208-806c-1981dcdb80ea": {
+            "type": "image",
+            "settings": {
+              "link": "",
+              "width": "33%",
+              "alignment": "top-middle"
+            }
+          },
+          "1661604168be2ba007-0": {
+            "type": "image",
+            "settings": {
+              "link": "",
+              "width": "33%",
+              "alignment": "top-middle"
+            }
+          }
+        },
+        "block_order": [
+          "1661604168be2ba007-1",
+          "8ecab859-7b2d-4208-806c-1981dcdb80ea",
+          "1661604168be2ba007-0"
+        ],
+        "settings": {
+          "full_width": false,
+          "space_around": true
+        }
       }
     },
     "content_for_index": [
@@ -847,8 +930,10 @@
       "1566999869051",
       "1499790731541",
       "1661603611c8bd3483",
-      "1661603753a211729a",
       "1659277115886b63e1",
+      "16616041522e06984c",
+      "1661604168be2ba007",
+      "1661603753a211729a",
       "1659280874af1cb1ac",
       "166016496680010818"
     ]
