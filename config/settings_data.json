@@ -812,15 +812,29 @@
       "1661603611c8bd3483": {
         "type": "background-image-text",
         "settings": {
-          "subtitle": "Impressive",
-          "title": "Large image with text box",
-          "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.<\/p>",
+          "subtitle": "Service",
+          "title": "Custom Picture Projects",
+          "text": "<p>We offer photo restoration as well as picture art and collages<\/p>",
           "button_label": "",
           "button_link": "",
           "focal_point": "center",
           "layout": "left",
           "height": 550,
-          "parallax": true
+          "parallax": false
+        }
+      },
+      "1661603753a211729a": {
+        "type": "text-and-image",
+        "disabled": true,
+        "settings": {
+          "image_width": 500,
+          "subtitle": "Improved",
+          "title": "Image with text",
+          "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.<\/p>",
+          "button_label": "Optional button",
+          "button_link": "",
+          "layout": "left",
+          "divider": false
         }
       }
     },
@@ -833,6 +847,7 @@
       "1566999869051",
       "1499790731541",
       "1661603611c8bd3483",
+      "1661603753a211729a",
       "1659277115886b63e1",
       "1659280874af1cb1ac",
       "166016496680010818"
