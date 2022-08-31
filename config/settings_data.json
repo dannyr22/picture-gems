@@ -245,18 +245,18 @@
       "1499789718857": {
         "type": "featured-collections",
         "blocks": {
-          "ca363621-ef13-4377-a832-26b1f80650b3": {
-            "type": "collection",
-            "settings": {
-              "collection": "picture-gems-crystals",
-              "focal_point": "center center",
-              "size": "square-large"
-            }
-          },
           "1499789718857-0": {
             "type": "collection",
             "settings": {
               "collection": "necklaces",
+              "focal_point": "center center",
+              "size": "square-large"
+            }
+          },
+          "ca363621-ef13-4377-a832-26b1f80650b3": {
+            "type": "collection",
+            "settings": {
+              "collection": "picture-gems-crystals",
               "focal_point": "center center",
               "size": "square-small"
             }
@@ -287,8 +287,8 @@
           }
         },
         "block_order": [
-          "ca363621-ef13-4377-a832-26b1f80650b3",
           "1499789718857-0",
+          "ca363621-ef13-4377-a832-26b1f80650b3",
           "1499789718857-2",
           "1499789718857-4",
           "90f7f5d5-840c-49d8-b216-0fdc5efa6727"
