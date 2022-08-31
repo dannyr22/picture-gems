@@ -1,0 +1,38 @@
+/*header*/
+
+.site-header__logo {
+  margin: 13.33333px 0 0 0;
+}
+
+@media (min-width: 769px) {
+  .header-item--logo .site-header__logo a {
+    max-height: 75px;
+  }
+}
+
+/*Header */
+
+.site-nav__item a {
+  color: #353956;
+}
+/*Footer*/
+.footer__copyright .footer__powered_by {
+  display: none;
+}
+
+.site-footer__linklist a {
+  padding: 0;
+}
+
+.site-footer__bottom-block {
+  margin: 0;
+}
+@media only screen and (min-width: 590px) {
+  .site-footer {
+    padding-top: 32px;
+    padding-bottom: 40px;
+  }
+  .site-footer__bottom {
+    padding-top: 0;
+  }
+}

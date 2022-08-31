@@ -1,26 +1,28 @@
 {
   "current": {
+    "color_body_text": "#353956",
     "color_borders": "#e8e8e1",
-    "color_button": "#111111",
+    "color_button": "#353956",
     "color_button_text": "#ffffff",
-    "color_footer": "#111111",
+    "color_footer": "#17172c",
     "color_footer_text": "#ffffff",
     "color_drawer_background": "#ffffff",
-    "color_drawer_text": "#000000",
+    "color_drawer_text": "#17172c",
     "color_drawer_border": "#e8e8e1",
-    "color_drawer_button": "#111111",
+    "color_drawer_button": "#353956",
     "color_drawer_button_text": "#ffffff",
+    "color_modal_overlays": "#17172c",
     "color_image_text": "#0ec0f4",
-    "color_image_2": "#000000",
+    "color_image_2": "#17172c",
     "color_image_2_opacity": 0,
-    "color_image_1": "#000000",
-    "color_image_1_opacity": 70,
-    "color_small_image_bg": "#ffffff",
-    "color_large_image_bg": "#111111",
-    "type_header_font_family": "itc_avant_garde_gothic_n7",
+    "color_image_1": "#17172c",
+    "color_image_1_opacity": 32,
+    "color_small_image_bg": "#f4f4f4",
+    "color_large_image_bg": "#17172c",
+    "type_header_font_family": "bauer_bodoni_n7",
     "type_header_spacing": "0",
-    "type_header_base_size": 35,
-    "type_header_line_height": 1.2,
+    "type_header_base_size": 42,
+    "type_header_line_height": 1.3,
     "type_header_accent_transform": true,
     "type_base_font_family": "futura_n4",
     "type_base_spacing": "25",
@@ -38,6 +40,7 @@
     "animate_images_style": "zoom-fade",
     "animate_buttons": true,
     "animate_underlines": true,
+    "quick_shop_enable": true,
     "quick_shop_text": "Quick view",
     "surface_pickup_enable": true,
     "product_content_1": "consent-to-use-finished-product",
@@ -82,8 +85,8 @@
           "540bbc6c-11c9-4a13-bb32-d75f8db79ca0": {
             "type": "logo",
             "settings": {
-              "logo": "shopify:\/\/shop_images\/PGlogo2_5782eba4-dd86-4b7a-bab2-6d57872fc5f3.png",
-              "desktop_logo_width": 200,
+              "logo": "shopify:\/\/shop_images\/39ADE8B8-B63E-49DD-8580-042506E2A446.webp",
+              "desktop_logo_width": 160,
               "mobile_logo_width": 200
             }
           }
@@ -93,11 +96,11 @@
         ],
         "settings": {
           "main_menu_link_list": "main-menu",
-          "main_menu_alignment": "left-center",
+          "main_menu_alignment": "center",
           "header_style": "sticky",
           "sticky_index": false,
-          "sticky_collection": true,
-          "type_navigation_size": 18,
+          "sticky_collection": false,
+          "type_navigation_size": 20,
           "type_navigation_style": false,
           "show_announcement": true,
           "announcement_text": "Presented by THInk Inc.",
@@ -172,7 +175,7 @@
         "type": "collection-template",
         "settings": {
           "collection_image_enable": true,
-          "collection_image_height": 550,
+          "collection_image_height": 450,
           "parallax": true,
           "description_position": "top",
           "collection_subnav_style": "inline",
@@ -233,7 +236,7 @@
         "settings": {
           "title": "Most popular",
           "collection1": "necklaces",
-          "collection2": "",
+          "collection2": "crystals",
           "per_row": 4,
           "view_all": true,
           "divider": false
@@ -241,12 +244,19 @@
       },
       "1499789718857": {
         "type": "featured-collections",
-        "disabled": true,
         "blocks": {
           "1499789718857-0": {
             "type": "collection",
             "settings": {
               "collection": "necklaces",
+              "focal_point": "center center",
+              "size": "square-large"
+            }
+          },
+          "ca363621-ef13-4377-a832-26b1f80650b3": {
+            "type": "collection",
+            "settings": {
+              "collection": "picture-gems-crystals",
               "focal_point": "center center",
               "size": "square-small"
             }
@@ -267,14 +277,6 @@
               "size": "square-small"
             }
           },
-          "ca363621-ef13-4377-a832-26b1f80650b3": {
-            "type": "collection",
-            "settings": {
-              "collection": "picture-gems-crystals",
-              "focal_point": "center center",
-              "size": "square-small"
-            }
-          },
           "90f7f5d5-840c-49d8-b216-0fdc5efa6727": {
             "type": "collection",
             "settings": {
@@ -286,47 +288,15 @@
         },
         "block_order": [
           "1499789718857-0",
+          "ca363621-ef13-4377-a832-26b1f80650b3",
           "1499789718857-2",
           "1499789718857-4",
-          "ca363621-ef13-4377-a832-26b1f80650b3",
           "90f7f5d5-840c-49d8-b216-0fdc5efa6727"
         ],
         "settings": {
-          "title": "",
+          "title": "Collections",
           "divider": false,
-          "enable_gutter": false
-        }
-      },
-      "1499790529450": {
-        "type": "hero-video",
-        "disabled": true,
-        "settings": {
-          "title": "Celebrate The Important",
-          "title_size": 80,
-          "subheading": "Custom Made Gifts Designed by Hand",
-          "link_text": "Watch",
-          "link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-          "text_align": "vertical-center horizontal-center",
-          "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-          "overlay_opacity": 0,
-          "section_height": "650px",
-          "mobile_height": "auto"
-        }
-      },
-      "1499790633921": {
-        "type": "background-image-text",
-        "disabled": true,
-        "settings": {
-          "subtitle": "",
-          "title": "",
-          "text": "",
-          "button_label": "",
-          "button_link": "",
-          "image": "shopify:\/\/shop_images\/thumbnail_IMG_1366.jpg",
-          "focal_point": "top",
-          "layout": "right",
-          "height": 450,
-          "parallax": false
+          "enable_gutter": true
         }
       },
       "1499790731541": {
@@ -638,15 +608,266 @@
           "sort": "alphabetical",
           "grid": "2"
         }
+      },
+      "1659276644ac12c6c0": {
+        "type": "fading-images",
+        "blocks": {
+          "9a706565-fb0c-4529-b86d-caa9942024be": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/8D856B74-06A0-43A1-A9AA-5052750630E4.jpg",
+              "focal_point": "center center",
+              "slide_title1": "Beautifully animated",
+              "slide_title2": "titles and images"
+            }
+          },
+          "30833a56-725c-41d6-95f2-d8bd357bc139": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/E9A9032E-4069-44FC-8407-FA1DB8E5DE10.webp",
+              "focal_point": "center center",
+              "slide_title1": "Use this section",
+              "slide_title2": "to impress customers"
+            }
+          },
+          "1b6fa0e9-9a61-4d84-98aa-81e7b894a701": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/A10DC4A1-0608-49E5-AE11-CADDAC8859D9.webp",
+              "focal_point": "center center",
+              "slide_title1": "And highlight",
+              "slide_title2": "important details"
+            }
+          },
+          "1659276644ac12c6c0-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/mother-son-selfie.jpg",
+              "focal_point": "center center",
+              "slide_title1": "Beautifully animated",
+              "slide_title2": "titles and images"
+            }
+          },
+          "1659276644ac12c6c0-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/stylish-summer-necklace.jpg",
+              "focal_point": "center center",
+              "slide_title1": "Use this section",
+              "slide_title2": "to impress customers"
+            }
+          },
+          "1659276644ac12c6c0-2": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/woman-wearing-aviator-glasses.jpg",
+              "focal_point": "center center",
+              "slide_title1": "And highlight",
+              "slide_title2": "important details"
+            }
+          }
+        },
+        "block_order": [
+          "9a706565-fb0c-4529-b86d-caa9942024be",
+          "30833a56-725c-41d6-95f2-d8bd357bc139",
+          "1b6fa0e9-9a61-4d84-98aa-81e7b894a701",
+          "1659276644ac12c6c0-0",
+          "1659276644ac12c6c0-1",
+          "1659276644ac12c6c0-2"
+        ],
+        "settings": {
+          "title_lines": "2",
+          "title_font": "body",
+          "title_size": 45,
+          "title_color": "#ffffff",
+          "title_bg_color": "rgba(0,0,0,0)",
+          "text_align": "vertical-center horizontal-center",
+          "link": "",
+          "slide_speed": 5,
+          "color_overlay": "#000000",
+          "color_overlay_opacity": 30,
+          "desktop_height": "650px",
+          "mobile_height": "auto"
+        }
+      },
+      "1659277115886b63e1": {
+        "type": "testimonials",
+        "blocks": {
+          "1659277115886b63e1-0": {
+            "type": "testimonial",
+            "settings": {
+              "icon": "5-stars",
+              "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+              "author": "Author name",
+              "author_info": "Los Angeles, CA"
+            }
+          },
+          "1659277115886b63e1-1": {
+            "type": "testimonial",
+            "settings": {
+              "icon": "5-stars",
+              "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+              "author": "Author name",
+              "author_info": "Los Angeles, CA"
+            }
+          },
+          "1659277115886b63e1-2": {
+            "type": "testimonial",
+            "settings": {
+              "icon": "5-stars",
+              "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+              "author": "Author name",
+              "author_info": "Los Angeles, CA"
+            }
+          },
+          "1659277115886b63e1-3": {
+            "type": "testimonial",
+            "settings": {
+              "icon": "5-stars",
+              "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+              "author": "Author name",
+              "author_info": "Los Angeles, CA"
+            }
+          },
+          "1659277115886b63e1-4": {
+            "type": "testimonial",
+            "settings": {
+              "icon": "5-stars",
+              "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+              "author": "Author name",
+              "author_info": "Los Angeles, CA"
+            }
+          }
+        },
+        "block_order": [
+          "1659277115886b63e1-0",
+          "1659277115886b63e1-1",
+          "1659277115886b63e1-2",
+          "1659277115886b63e1-3",
+          "1659277115886b63e1-4"
+        ],
+        "settings": {
+          "title": "Don't take our word for it",
+          "round_images": true,
+          "color_background": "#f9f9f9",
+          "color_text": "#353956"
+        }
+      },
+      "1659280874af1cb1ac": {
+        "type": "map",
+        "disabled": true,
+        "settings": {
+          "map_title": "Our retail store",
+          "address": "<p>301 Front St W<br\/>Toronto, Canada<\/p><p>Mon - Fri, 8:30am - 10:30pm<br\/>Saturday, 8:30am - 10:30pm<br\/>Sunday, 8:30am - 10:30pm<\/p>",
+          "map_address": "301 Front St W, Toronto, ON M5V 2T6",
+          "api_key": "",
+          "show_button": true,
+          "background_image_position": "center center"
+        }
+      },
+      "166016496680010818": {
+        "type": "featured-collection-switcher",
+        "disabled": true,
+        "settings": {
+          "title": "Most popular",
+          "collection1": "crystals",
+          "collection2": "bracelets",
+          "per_row": 3,
+          "view_all": true,
+          "divider": false
+        }
+      },
+      "1661604168be2ba007": {
+        "type": "advanced-content",
+        "blocks": {
+          "1661604168be2ba007-1": {
+            "type": "html",
+            "settings": {
+              "code": "<h2 style=\"text-align: center\">Custom Picture Projects<\/h2><p style=\"text-align: center\">We offer photo restoration as well as picture art and collages<\/p><p style=\"text-align: center\">Email 123@email.com for more information and prices.<\/p>",
+              "width": "100%",
+              "alignment": "center"
+            }
+          },
+          "8ecab859-7b2d-4208-806c-1981dcdb80ea": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brother-and-sister.jpg",
+              "link": "",
+              "width": "33%",
+              "alignment": "top-middle"
+            }
+          },
+          "1661604168be2ba007-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/woman-taking-pictures-in-cornfield.jpg",
+              "link": "",
+              "width": "33%",
+              "alignment": "top-middle"
+            }
+          },
+          "5a1f5fd5-6de0-4beb-908a-4531fca14d27": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/checking-out-pictures-in-a-book.jpg",
+              "link": "",
+              "width": "33%",
+              "alignment": "top-middle"
+            }
+          },
+          "e07b28ce-5e3e-4545-920c-3f0354068a91": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/instant-camera-paints-and-record-with-cocktail.jpg",
+              "link": "",
+              "width": "33%",
+              "alignment": "top-middle"
+            }
+          },
+          "bccd0e88-806a-4085-86aa-0bebd8c5dea0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/stylish-summer-necklace.jpg",
+              "link": "",
+              "width": "33%",
+              "alignment": "top-middle"
+            }
+          },
+          "17658afb-df3c-4df2-83d8-3b5ecd841fb4": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brother-and-sister.jpg",
+              "link": "",
+              "width": "33%",
+              "alignment": "top-middle"
+            }
+          }
+        },
+        "block_order": [
+          "1661604168be2ba007-1",
+          "8ecab859-7b2d-4208-806c-1981dcdb80ea",
+          "1661604168be2ba007-0",
+          "5a1f5fd5-6de0-4beb-908a-4531fca14d27",
+          "e07b28ce-5e3e-4545-920c-3f0354068a91",
+          "bccd0e88-806a-4085-86aa-0bebd8c5dea0",
+          "17658afb-df3c-4df2-83d8-3b5ecd841fb4"
+        ],
+        "settings": {
+          "full_width": false,
+          "space_around": true
+        }
       }
     },
     "content_for_index": [
       "1498163293234",
-      "1499790633921",
-      "1499790529450",
+      "1659276644ac12c6c0",
       "1499789718857",
       "1566999869051",
-      "1499790731541"
+      "1499790731541",
+      "1661604168be2ba007",
+      "1659277115886b63e1",
+      "1659280874af1cb1ac",
+      "166016496680010818"
     ]
   },
   "presets": {
