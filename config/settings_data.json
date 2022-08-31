@@ -299,38 +299,6 @@
           "enable_gutter": true
         }
       },
-      "1499790529450": {
-        "type": "hero-video",
-        "disabled": true,
-        "settings": {
-          "title": "Celebrate The Important",
-          "title_size": 80,
-          "subheading": "Custom Made Gifts Designed by Hand",
-          "link_text": "Watch",
-          "link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-          "text_align": "vertical-center horizontal-center",
-          "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-          "overlay_opacity": 0,
-          "section_height": "650px",
-          "mobile_height": "auto"
-        }
-      },
-      "1499790633921": {
-        "type": "background-image-text",
-        "disabled": true,
-        "settings": {
-          "subtitle": "",
-          "title": "",
-          "text": "",
-          "button_label": "",
-          "button_link": "",
-          "image": "shopify:\/\/shop_images\/thumbnail_IMG_1366.jpg",
-          "focal_point": "top",
-          "layout": "right",
-          "height": 450,
-          "parallax": false
-        }
-      },
       "1499790731541": {
         "type": "collection-callout",
         "settings": {
@@ -809,79 +777,6 @@
           "divider": false
         }
       },
-      "1661603611c8bd3483": {
-        "type": "background-image-text",
-        "disabled": true,
-        "settings": {
-          "subtitle": "Service",
-          "title": "Custom Picture Projects",
-          "text": "<p>We offer photo restoration as well as picture art and collages<\/p>",
-          "button_label": "",
-          "button_link": "",
-          "focal_point": "center",
-          "layout": "left",
-          "height": 550,
-          "parallax": false
-        }
-      },
-      "1661603753a211729a": {
-        "type": "text-and-image",
-        "disabled": true,
-        "settings": {
-          "image_width": 500,
-          "subtitle": "Improved",
-          "title": "Image with text",
-          "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.<\/p>",
-          "button_label": "Optional button",
-          "button_link": "",
-          "layout": "left",
-          "divider": false
-        }
-      },
-      "16616041522e06984c": {
-        "type": "slideshow",
-        "disabled": true,
-        "blocks": {
-          "16616041522e06984c-0": {
-            "type": "image",
-            "settings": {
-              "title": "Endless\npossibilities.",
-              "title_size": 80,
-              "subheading": "Bring your brand to life",
-              "link": "",
-              "link_text": "Optional button",
-              "text_align": "vertical-bottom horizontal-left",
-              "overlay_opacity": 0,
-              "focal_point": "center center"
-            }
-          },
-          "16616041522e06984c-1": {
-            "type": "image",
-            "settings": {
-              "title": "Two line\nslide titles.",
-              "title_size": 80,
-              "subheading": "And big, beautiful imagery",
-              "link": "",
-              "link_text": "Optional button",
-              "text_align": "vertical-bottom horizontal-left",
-              "overlay_opacity": 0,
-              "focal_point": "center center"
-            }
-          }
-        },
-        "block_order": [
-          "16616041522e06984c-0",
-          "16616041522e06984c-1"
-        ],
-        "settings": {
-          "section_height": "650px",
-          "mobile_height": "auto",
-          "parallax": true,
-          "style": "arrows",
-          "autoplay": true,
-          "autoplay_speed": 5
-        }
-      },
       "1661604168be2ba007": {
         "type": "advanced-content",
         "blocks": {
@@ -967,15 +862,10 @@
       "1498163293234",
       "1659276644ac12c6c0",
       "1499789718857",
-      "1499790633921",
-      "1499790529450",
       "1566999869051",
       "1499790731541",
-      "1661603611c8bd3483",
       "1661604168be2ba007",
       "1659277115886b63e1",
-      "16616041522e06984c",
-      "1661603753a211729a",
       "1659280874af1cb1ac",
       "166016496680010818"
     ]
