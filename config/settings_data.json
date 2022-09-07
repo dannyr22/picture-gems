@@ -253,10 +253,10 @@
               "size": "square-large"
             }
           },
-          "ca363621-ef13-4377-a832-26b1f80650b3": {
+          "1499789718857-4": {
             "type": "collection",
             "settings": {
-              "collection": "picture-gems-crystals",
+              "collection": "bracelets",
               "focal_point": "center center",
               "size": "square-small"
             }
@@ -269,10 +269,10 @@
               "size": "square-small"
             }
           },
-          "1499789718857-4": {
+          "ca363621-ef13-4377-a832-26b1f80650b3": {
             "type": "collection",
             "settings": {
-              "collection": "bracelets",
+              "collection": "picture-gems-crystals",
               "focal_point": "center center",
               "size": "square-small"
             }
@@ -288,9 +288,9 @@
         },
         "block_order": [
           "1499789718857-0",
-          "ca363621-ef13-4377-a832-26b1f80650b3",
-          "1499789718857-2",
           "1499789718857-4",
+          "1499789718857-2",
+          "ca363621-ef13-4377-a832-26b1f80650b3",
           "90f7f5d5-840c-49d8-b216-0fdc5efa6727"
         ],
         "settings": {
@@ -650,6 +650,7 @@
           },
           "1659276644ac12c6c0-1": {
             "type": "image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/stylish-summer-necklace.jpg",
               "focal_point": "center center",
@@ -659,6 +660,7 @@
           },
           "1659276644ac12c6c0-2": {
             "type": "image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/woman-wearing-aviator-glasses.jpg",
               "focal_point": "center center",
