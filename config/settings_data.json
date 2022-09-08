@@ -612,22 +612,13 @@
       "1659276644ac12c6c0": {
         "type": "fading-images",
         "blocks": {
-          "9a706565-fb0c-4529-b86d-caa9942024be": {
+          "1659276644ac12c6c0-0": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/8D856B74-06A0-43A1-A9AA-5052750630E4.jpg",
+              "image": "shopify:\/\/shop_images\/mother-son-selfie.jpg",
               "focal_point": "center center",
-              "slide_title1": "Beautifully animated",
-              "slide_title2": "titles and images"
-            }
-          },
-          "30833a56-725c-41d6-95f2-d8bd357bc139": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/E9A9032E-4069-44FC-8407-FA1DB8E5DE10.webp",
-              "focal_point": "center center",
-              "slide_title1": "Use this section",
-              "slide_title2": "to impress customers"
+              "slide_title1": "Create Your Memories",
+              "slide_title2": ""
             }
           },
           "1b6fa0e9-9a61-4d84-98aa-81e7b894a701": {
@@ -635,17 +626,26 @@
             "settings": {
               "image": "shopify:\/\/shop_images\/A10DC4A1-0608-49E5-AE11-CADDAC8859D9.webp",
               "focal_point": "center center",
-              "slide_title1": "And highlight",
-              "slide_title2": "important details"
+              "slide_title1": "Share Your Memories",
+              "slide_title2": ""
             }
           },
-          "1659276644ac12c6c0-0": {
+          "9a706565-fb0c-4529-b86d-caa9942024be": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/mother-son-selfie.jpg",
+              "image": "shopify:\/\/shop_images\/8D856B74-06A0-43A1-A9AA-5052750630E4.jpg",
               "focal_point": "center center",
-              "slide_title1": "Beautifully animated",
-              "slide_title2": "titles and images"
+              "slide_title1": "Wear Your Memories",
+              "slide_title2": ""
+            }
+          },
+          "30833a56-725c-41d6-95f2-d8bd357bc139": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/E9A9032E-4069-44FC-8407-FA1DB8E5DE10.webp",
+              "focal_point": "center center",
+              "slide_title1": "Celebrate The Important",
+              "slide_title2": ""
             }
           },
           "1659276644ac12c6c0-1": {
@@ -670,10 +670,10 @@
           }
         },
         "block_order": [
+          "1659276644ac12c6c0-0",
+          "1b6fa0e9-9a61-4d84-98aa-81e7b894a701",
           "9a706565-fb0c-4529-b86d-caa9942024be",
           "30833a56-725c-41d6-95f2-d8bd357bc139",
-          "1b6fa0e9-9a61-4d84-98aa-81e7b894a701",
-          "1659276644ac12c6c0-0",
           "1659276644ac12c6c0-1",
           "1659276644ac12c6c0-2"
         ],
