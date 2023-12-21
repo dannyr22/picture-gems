@@ -870,7 +870,21 @@
       "1659277115886b63e1",
       "1659280874af1cb1ac",
       "166016496680010818"
-    ]
+    ],
+    "blocks": {
+      "15683396631634586217": {
+        "type": "shopify:\/\/apps\/inbox\/blocks\/chat\/841fc607-4181-4ad1-842d-e24d7f8bad6b",
+        "disabled": false,
+        "settings": {
+          "button_color": "#44ccf5",
+          "button_icon": "chat_bubble",
+          "button_horizontal_position": "bottom_right",
+          "button_vertical_position": "lowest",
+          "button_text": "chat_with_us",
+          "greeting_message": "👋 Hello! Let us know if you have a specific question, specific instructions for your order, or give an idea of what you're looking for. We're happy to make recommendations."
+        }
+      }
+    }
   },
   "presets": {
     "Classic": {
